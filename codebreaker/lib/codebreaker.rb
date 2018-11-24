@@ -1,4 +1,5 @@
 require "codebreaker/version"
+require "codebreaker/interface"
 
 module Codebreaker
   class Error < StandardError; end
